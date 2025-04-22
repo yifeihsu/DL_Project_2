@@ -1,0 +1,5 @@
+"train/global_step","student_kd - _step","student_kd - _step__MIN","student_kd - _step__MAX","student_kd - train/loss","student_kd - train/loss__MIN","student_kd - train/loss__MAX"
+"200","0","0","0","1.044","1.044","1.044"
+"400","1","1","1","0.3603","0.3603","0.3603"
+"600","2","2","2","0.3167","0.3167","0.3167"
+"800","3","3","3","0.2935","0.2935","0.2935"

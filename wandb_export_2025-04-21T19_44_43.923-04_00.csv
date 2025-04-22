@@ -1,0 +1,6 @@
+"train/global_step","teacher_ckpt - _step","teacher_ckpt - _step__MIN","teacher_ckpt - _step__MAX","teacher_ckpt - eval/steps_per_second","teacher_ckpt - eval/steps_per_second__MIN","teacher_ckpt - eval/steps_per_second__MAX"
+"860","225","152","281","5.7618","5.194","6.841"
+"1720","203.66666666666666","157","257","5.9615","5.326","6.484"
+"2580","198","162","232","5.8344000000000005","5.039","6.574"
+"13750","68","68","68","7.34","7.34","7.34"
+"27500","138","138","138","7.762","7.762","7.762"
